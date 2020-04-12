@@ -1,5 +1,7 @@
 # On the fairness of a non-inflationary currency
 
+![On the fairness of a non-inflationary currency](./images/4557.jpg "On the fairness of a non-inflationary currency")
+
 ## Introduction
 My intuition tells me that creating money out of thin air is not a good thing. 
 
@@ -83,3 +85,5 @@ I admit that the argument about wealth concentration is the strongest one agains
 \* Maybe printing money is not totally bad, but if it is so good, why is there still poverty in the world? The first answer that comes to mind is that money does not equal value. Money can be *used* to store value more or less successfully, but it is not the value itself. Decoupling these two concepts (value vs. store of value) is fundamental to start understanding, if only intuitively, the discussion concerning inflation, deflation and, in general, the effects of chaning the amount of money in the economy.
  
 ** I own bitcoin, which is a non-inflationary currency. As it has been correctly pointed out, I have a vested interest in these ideas to be correct, not just by the sake of being right, but by the personal benefit I would get. So I tried to make this argument as clear as possible guided by reason and not by any personal interest. I hope that if there are any flaws on it, I am reminded of them with as clear a counter-argument as possible.
+
+*** <a href="https://www.freepik.com/free-photos-vectors/car">Car photo created by teksomolika - www.freepik.com</a>
