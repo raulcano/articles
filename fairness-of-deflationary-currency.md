@@ -35,7 +35,9 @@ For all arguments below, I assume these premises:
 ## Answer to argument 1
 In such a scenario, following from premise 1, no matter what amount of money you have, your purchase power will increase with time. Hence, it will seem to you 'unfair' if you compare yourself with the previous generation, as it will seem 'unfair' for the following generation when they compare with you.
 
-Even if it can be perceived as 'unfair', the truth is that this continuous deflation provoked by an increase in productivity will allow you to benefit from an increasingly good standard of living, and especially the older you get (and less capable of producing). This system seems to better guarantee your retirement pension than any other one we know now, since you are not incentivized to invest your savings to beat inflation into areas you barely understand.
+Even if it can be perceived as 'unfair', the truth is that this continuous deflation provoked by an increase in productivity will allow you to benefit from an increasingly good standard of living, and especially the older you get (and less capable of producing). 
+
+An unintented positive consequence of the increasing purchase power of money is that this system seems to better guarantee your retirement pension just by saving your income without taking any special risks, since you are not incentivized to do investments to beat inflation into areas you barely understand.
 
 # Argument 2: the incentive is not on production <a name="arg2"></a>
 *As soon as you have enough money, you will have no incentive to work or to produce because a continuous growth in productivity will guarantee that your purchase power increases with time.*
@@ -93,7 +95,7 @@ The argument focused on the unfairness of deflation due to your wealth depending
 
 [Back to Table of Contents](#toc)
 
-My intuitions lead me to believe that a prosperous economy must be deflationary by necessity. That is, the continuous growth of productivity paired with a non-inflationary currency allows *everyone* to be better off, especially in comparison with inflationary alternatives.
+My intuitions lead me to believe that a prosperous economy must be deflationary by necessity. That is, the continuous growth of productivity paired with a non-inflationary currency allows *everyone* to be better off, especially in comparison with inflationary alternatives. 
 
 This article has been my attempt to address a few arguments against the perceived unfairness of a deflationary scenario. I believe they are appealing arguments, but wrong.
 
