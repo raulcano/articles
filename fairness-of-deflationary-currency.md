@@ -12,13 +12,13 @@ A third intuition of mine in this topic is that a non-inflationary currency, tha
 
 A few good arguments about the unfairness of a non-inflationary currency have been pointed out to me. As appealing as they may seem, I believe they are wrong, however their rebuttal is neither immediate nor obvious. I will try to address them here.
 
-# Table of Contents
+# Table of Contents <a name="toc"></a>
 1. [Premises](#premises)
 2. [Argument 1: disproportionate rewards for early agents](#arg1)
 3. [Argument 2: the incentive is not on production](#arg2)
 4. [Argument 3: wealth concentration](#arg3)
 5. [Argument 4: your wealth depends mostly on when you are born](#arg4)
-6. [Conclusions](#consclusions)
+6. [Conclusions](#conclusions)
 7. [Notes](#notes)
 
 # Premises <a name="premises"></a>
@@ -28,8 +28,9 @@ For all arguments below, I assume these premises:
 
 # Argument 1: disproportionate rewards for early agents <a name="arg1"></a>
 
-*If the amount of money is stable, and so is the productivity growth rate, then the earlier you earn money, the more purchase power you have compared to generations that enter the economy later. That is, with a non-inflationary currency, people entering early in the game are rewarded disproportionately, which is unfair.*
+*If the amount of money is stable, and so is the productivity growth rate, then the earlier you earn money, the more purchase power you have compared to generations that enter the economy later. That is, with a non-inflationary currency, people entering early in the game are rewarded disproportionately, which is unfair.*  
 
+[Back to Table of Contents](#toc)
 
 ## Answer to argument 1
 In such a scenario, following from premise 1, no matter what amount of money you have, your purchase power will increase with time. Hence, it will seem to you 'unfair' if you compare yourself with the previous generation, as it will seem 'unfair' for the following generation when they compare with you.
@@ -38,6 +39,9 @@ Even if it can be perceived as 'unfair', the truth is that this continuous defla
 
 # Argument 2: the incentive is not on production <a name="arg2"></a>
 *As soon as you have enough money, you will have no incentive to work or to produce because a continuous growth in productivity will guarantee that your purchase power increases with time.*
+
+[Back to Table of Contents](#toc)
+
 
 ## Answer to argument 2
 There needs to be a critical mass on innovation to keep stable growth (as per premise 1), so it is false that production is not incentivized.
@@ -55,6 +59,8 @@ To sum up, you may not be incentivized to *always* work. True. However, once you
 # Argument 3: wealth concentration <a name="arg3"></a>
 *A non-inflationary currency, along with ever-growing productivity would derive in a dangerously high level of wealth concentration by older generations.*
 
+[Back to Table of Contents](#toc)
+
 ## Answer to argument 3
 
 In order to keep a constant growth (premise 1) you need innovation to happen. The investment on innovation must come from those who own enough savings. Since younger generations won't have the money to invest, that pressure goes to the wealthier members of society, that is, the people that can allow such investments.
@@ -69,6 +75,8 @@ In an alternative scenario where money can be printed, it doesn't follow that we
 # Argument 4: your wealth depends mostly on when you are born <a name="arg4"></a>
 *Your wealth depends on when you are born, so deflation is unfair.*
 
+[Back to Table of Contents](#toc)
+
 ## Answer to argument 4
 This argument is similar to argument 1, however I want to offer a different way to answer here, turning it upside down. 
 
@@ -82,6 +90,9 @@ One could say that my answer to the argument dodges the question. Deflation make
 The argument focused on the unfairness of deflation due to your wealth depending on when you are born, which is no merit of yours. Hence, if it is unfair that older generations are wealthier just by being born earlier, it is equally unfair that younger generations are wealthier just by bein born later. Since we do not see the latter as unfair, we shall not see the former as unfair either.
 
 # Conclusions <a name="conclusions"></a>
+
+[Back to Table of Contents](#toc)
+
 My intuitions lead me to believe that a prosperous economy must be deflationary by necessity. That is, the continuous growth of productivity paired with a non-inflationary currency allows *everyone* to be better off, especially in comparison with inflationary alternatives.
 
 This article has been my attempt to address a few arguments against the perceived unfairness of a deflationary scenario. I believe they are appealing arguments, but wrong.
@@ -91,6 +102,9 @@ If we assume a stable growth in productivity paired with a deflationary currency
 I admit that the argument about wealth concentration is the strongest one against a deflationary currency and my answer may not be the most convincing one. I am not sure that wealth concentration is a bad thing per se, as long as purchase power keeps rising for *everyone*. Further research on this is needed. 
 
 # Notes <a name="notes"></a>
+
+[Back to Table of Contents](#toc)
+
 \* Maybe printing money is not totally bad, but if it is so good, why is there still poverty in the world? The first answer that comes to mind is that money does not equal value. Money can be *used* to store value more or less successfully, but it is not the value itself. Decoupling these two concepts (value vs. store of value) is fundamental to start understanding, if only intuitively, the discussion concerning inflation, deflation and, in general, the effects of chaning the amount of money in the economy.
  
 ** I own bitcoin, which is a non-inflationary currency. As it has been correctly pointed out, I have a vested interest in these ideas to be correct, not just by the sake of being right, but by the personal benefit I would get. So I tried to make this argument as clear as possible guided by reason and not by any personal interest. I hope that if there are any flaws on it, I am reminded of them with as clear a counter-argument as possible.
