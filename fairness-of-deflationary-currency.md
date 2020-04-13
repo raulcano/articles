@@ -75,7 +75,7 @@ In order to be a rentist you need to save money first, and that money will almos
 
 I fail to see what is wrong with risking your honest-earned savings in endeavors that are equally honest and legit. Let's not forget that any investment of a 'rentist' involves both a service given to someone that values it (e.g. a house to live in) and a risk incurred (e.g. tenants not paying), so it is only fair that the rentist receives a return based on both value added and risk taken. 
 
-Additionally, if you favor income coming from work over income coming from rent, you are free to keep working as much as you want. The positive side of the deflationary scenario I am defending in this article is that any person that favors the lifestyle of an inflationary world, can actually keep having that same lifestyle if they wish so. 
+Additionally, if you favor income coming from work over income coming from rent, you are free to keep working as much as you want. The positive side of the deflationary scenario I am defending in this article is that any person that prefers the lifestyle of an inflationary world, can actually keep having that same lifestyle if they wish so. 
 Additionally, they have an open door to new lifestyle if they save enough through their work. Plus, nobody is diluting their savings arbitrarily.
 
 In a way, this seems to me an incredibly beneficial state of things, in which your savings will almost certainly allow you a freer future and where you don't need to trust your savings in obscure investment schemes to avoid inflation eating up your money.
