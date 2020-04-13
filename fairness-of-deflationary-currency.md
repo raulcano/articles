@@ -89,7 +89,7 @@ Again, if there is anything unfair in that, I fail to see it.
 
 ## Answer
 
-In order to keep a constant growth (premise 1) you need innovation to happen. The investment on innovation must come from those who own enough savings. Since younger generations won't have the money to invest, that pressure goes to the wealthier members of society, that is, the people that can allow such investments.
+In order to keep a constant growth (premise 1) you need innovation to happen. The investment on innovation must come from those who own enough savings. Since younger generations won't have the money to invest, that pressure goes to the wealthier (usually older) members of society, the people that can allow such investments.
 
 One can assume that not all projects will succeed and not all investors will increase their wealth equally. In fact, true innovation comes from a disproportionately low percentage of projects started. This means that the unsuccessful projects would have redistributed the wealth of the investors back into society through the salaries of staff, purchases of capital and any other expenses incurred, without making the investors richer. This leakage of funds is a way in which the market prevents an ever-increasing accumulation of wealth.
 
