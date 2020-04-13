@@ -40,7 +40,7 @@ In such a scenario, following from premise 1, no matter what amount of money you
 
 Even if it can be perceived as 'unfair', the truth is that this continuous deflation provoked by an increase in productivity will allow you to benefit from an increasingly good standard of living, and especially the older you get (and less capable of producing). 
 
-An unintented positive consequence of the increasing purchase power of money is that this system seems to better guarantee your retirement pension just by saving your income without taking any special risks, since you are not incentivized to do investments to beat inflation into areas you barely understand.
+An unintented positive consequence of the increasing purchase power of money is that this system seems to better guarantee your retirement pension just by saving your income without taking any special risks, since you are not incentivized to enter investments you barely understand to beat inflation.
 
 # Argument 2: the incentive is not on production <a name="arg2"></a>
 *As soon as you have enough money, you will have no incentive to work or to produce because a continuous growth in productivity will guarantee that your purchase power increases with time.*
