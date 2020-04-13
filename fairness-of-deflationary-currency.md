@@ -125,9 +125,9 @@ This article has been my attempt to address a few arguments against the perceive
 
 If we assume a stable growth in productivity paired with a deflationary currency, it follows that people entering early in such economy will profit enormously, but this is not necessarily an unfair state of things. The premise of a stable productivity growth guarantees that your purchase power will increase, so people entering at any point in time will equally profit compared to following generations.
 
-Additionaly, if one prefers the lifestyle fostered by inflation, where spending is incentivized, then one is free to keep that lifestyle. Moreover, there is the added benefit that one wouldn't be doing that because one's savings are slowly dissapearing, but because one chooses to. Likewise, a person can choose to have a lifestyle focused on delaying spending for a better time, saving their hard-earned money without the hidden tax of inflation. There are more life options to choose from and not less.
+Additionaly, if one prefers the lifestyle fostered by inflation, where spending is incentivized, then one is free to keep that lifestyle. Moreover, one wouldn't be doing that because one's savings are slowly dissapearing, but because one chooses to. Likewise, a person can decide to have a lifestyle focused on delaying spending for a better time, saving their hard-earned money without the hidden tax of inflation. There are more life options to choose from and not less.
 
-I admit that the argument about wealth concentration is the strongest one against a deflationary currency and my answer may not be the most convincing one. I am not sure that wealth concentration is a bad thing per se, as long as purchase power keeps rising for *everyone*. Further research on this is needed. 
+I admit that the argument about wealth concentration is the strongest one against a deflationary currency and my answer may not be the most convincing one. I am not sure that wealth concentration is a bad thing per se, as long as purchase power keeps rising for *everyone* and the concentrated wealth has been earned legimatelly (e.g. according to law, without violence and via voluntary exchanges). Further research on this is needed. 
 
 # Notes <a name="notes"></a>
 
