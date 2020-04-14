@@ -49,7 +49,9 @@ An unintented positive consequence of the increasing purchase power of money is 
 
 
 ## Answer
-There needs to be a critical mass on innovation to keep stable growth (as per premise 1), so it is false that production is not incentivized.
+And how is that a bad thing? Is it really unfair to be able to work, save money and live off your savings?
+
+Moreover, there needs to be a critical mass on innovation to keep stable growth (as per premise 1), so it is false that production is not incentivized.
 
 Unless you inherit or are gifted enough money very early in life, there is a period in which you certainly are incentived to work, until you have saved enough that you can sit in those earnings if you choose to.
 
