@@ -62,7 +62,7 @@ The projects that are funded would be the ones that promise the better disruptio
 To sum up, you may not be incentivized to *always* work. True. However, once you have enough savings your incentives push you to fund innovative projects that would bring prosperity and an ever-growing purchase power.
 
 # Argument 3: rentists are favored over workers  <a name="arg3"></a>
-*Work should be rewarded over saving money. It favors savers (rentists) over workers* 
+*Work should be rewarded over saving money. A non-inflationary currency favors savers (rentists) over workers* 
 
 [Back to Table of Contents](#toc)
 
@@ -71,11 +71,11 @@ Even though a saver is not necessary a rentist I'll focus on the rentist part, s
 
 First, I think this argument is the most subjective of all presented here and I cannot aim to change the personal preference or the emotional side of this position. However, since this article aims to defend the fairness of the non-inflationary currency, I will focus on why there is nothing wrong or unfair with the rentist position.
 
-In order to be a rentist you need to save money first, and that money will almost exclusively come from your work, unless you inherit or receive a generous gift. At some point, you will have saved enough and you can keep working if you wish, you can put your money to work for you (i.e. becoming a rentist), or you can do both.
+In order to be a rentist you need to save money first, and that money will almost exclusively come from your work, unless you inherit or receive a generous gift. At some point, you will have saved enough and you can keep working if you wish, but you can also put your money to work for you (i.e. becoming a rentist), or you can do both.
 
 I fail to see what is wrong with risking your honest-earned savings in endeavors that are equally honest and legit. Let's not forget that any investment of a 'rentist' involves both a service given to someone that values it (e.g. a house to live in) and a risk incurred (e.g. tenants not paying), so it is only fair that the rentist receives a return based on both value added and risk taken. 
 
-Additionally, if you favor income coming from work over income coming from rent, you are free to keep working as much as you want. The positive side of the deflationary scenario I am defending in this article is that any person that prefers the lifestyle of an inflationary world, can actually keep having that same lifestyle if they wish so. 
+Additionally, if you favor income coming from work over income coming from rent, you are free to keep working as much as you want. The positive side of the deflationary scenario I am defending is that any person that prefers the lifestyle of an inflationary world, can actually keep having that same lifestyle if they wish so. 
 Additionally, they have an open door to a new lifestyle if they save enough through their work. Plus, nobody is diluting their savings arbitrarily.
 
 In a way, this seems to me an incredibly beneficial state of things, in which your savings will almost certainly allow you a freer future and where you don't need to trust your savings in obscure investment schemes to avoid inflation eating up your money.
