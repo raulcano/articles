@@ -1,6 +1,8 @@
 # Stop printing money!
 
-# Introduction
+![Stop printing money](./images/3931.jpg "Stop printing money")
+
+## Introduction
 This piece is a follow-up of my first one on the [fairness of a non-inflationary currency](https://github.com/raulcano/articles/blob/master/fairness-of-deflationary-currency.md).
 
 Since I wrote that, some friends raised a couple of arguments which I'd like to address here. To be precise, I don't think these arguments are new, rather a variation of the ones discussed in the first piece, but still worth the effort of analysing them individually.
@@ -86,3 +88,6 @@ If the Government didn't force you to use their money via legal-tender laws, and
 I guess the underlaying issue I have with printing money is a question of liberty. In particular, the option of delaying consumption is unfairly punished: with inflation you are incentivized to spend because otherwise your savings lose value via the hidden tax of inflation. If the goverment only allows one money for you to store your savings, and at the same time, they dilute that money at their will, they are taking freedom from you to decide when to spend your hard-earned money.
 
 The alternative, a non-inflationary currency, gives you a choice, gives you more freedom: do you want to spend? that's fine; do you want to save it for later? that's fine too.
+
+# Credits
+<a href="https://www.freepik.com/free-photos-vectors/pattern">Pattern photo created by jannoon028 - www.freepik.com</a>
