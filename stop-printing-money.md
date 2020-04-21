@@ -24,7 +24,7 @@ For clarity, I outline here the premises assumed in all the arguments in this to
 2. The amount of money is stable. There are no new monetary units created.
 
 # Argument: price stability is good <a name="arg1"></a>
-*It is fair to control the inflation so the new printed money keeps prices stable*
+*It is fair to print new money in order to keep prices stable*
 
 ## Answer
 I have no issue with prices being stable if that is what the market determines.
