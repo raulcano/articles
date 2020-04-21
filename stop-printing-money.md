@@ -28,19 +28,17 @@ For clarity, I outline here the premises assumed in all the arguments in this to
 
 ## Answer
 I have no issue with prices being stable if that is what the market determines.
-However, why would you want to keep prices stable artificially? In order to be able to buy the same amount of goods (or services) with your money? Ok, that seems fair. At least, initially. The issue I have with this argument is that the whole point of improving technology is to increase productivity in a way that makes things cheaper and more accessible to the population overall. That is, if stable prices are good, cheaper prices are much better.
+However, why would you want to keep prices stable artificially? To be able to buy the same amount of goods (or services) with your money? Ok, that seems fair. At least, initially. The issue I have with this argument is that the whole point of improving technology is to increase productivity in a way that makes things cheaper and more accessible to the population overall. That is, if stable prices are good, cheaper prices are much better.
 
 Technology adds a deflationary pressure on the economy, since with the same amount of money one can buy more stuff. If more quantity of a good is produced with the same resources, it is normal and *fair* that its price be reduced.
 
 Another consequence of the argument for price stability is that if you roll back long enough in history, let's say, back to when we were Homo habilis using the first tools, we should then spend most of our salaries *now* in a piece of wood or some plates, because the price should have remained stable throughout History.
-Luckily enough that was not the case and the fact that we got better at developing techonology allowed us to allocate our time and resources to new things that improved our lives, up to mobile phones, food delivery, internet, you name it.
+Luckily enough that was not the case and the fact that we got better at developing techonology and prices were reduced for most things, we were allowed to allocate our time and resources on new things that improved our lives, up to mobile phones, food delivery, internet, you name it.
 
 Let's not forget that prices give shape to a system that sums up the overwhelming amount of knowledge affecting all different goods and services in an economy. Distorting them is not only unnecesarry but also harmful.
 
-In sum, the fact that most of us can afford a PC, a laptop, internet access, travel, etc. is that prices never stayed stable, but they dropped thanks to technological advances. That is fair and very much desirable.
-
 # Argument: hoarding <a name="arg2"></a>
-*The incentive is in saving (hoarding) and not in spending. This diminishes eventually economic activity, leading to bankrupcies, unemployment and other negative effects.*
+*The incentive is in saving (hoarding) and not in spending. This eventually diminishes economic activity, leading to bankrupcies, unemployment and other negative effects.*
 
 ## Answer
 
@@ -50,7 +48,7 @@ The question is if that level of deflation has a negative effect on the economy.
 
 Another consequence of having more people capable of and incentivized to saving their income is that it increases the likelihood of investments, which are a necessary condition for premise 1 to hold. That is, some savers would ask themselves if they can beat the rate of deflation by investing their money instead of just hoarding it, so there would be spending in the form of new businesses which have to promise at least as high returns as the ones given by the deflationary trend itself. Those businesses create new job opportunities and contribute to a healthy economy by developing its productivity.
 
-Another point stated in the argument, is that a non-inflationary currency would lead to bankrupcies. It is true that if the amount of money in circulation decreases rapidly, then those who hold debt then will have to pay a bigger amount for their credit in terms of purchase power, since every time they have to pay a part of their debt that money is worth more and more. In that case, bankrupcies are likely to happen. However, as Jörg Guido Hülsmann puts it in his piece ["Deflation and Liberty"](https://mises.org/library/deflation-and-liberty-1): 
+Another point stated in the argument, is that a non-inflationary currency would lead to bankrupcies. This is especially true if the amount of money in circulation decreases rapidly. Those who hold debt then will have to pay a bigger amount for their credit in terms of purchase power, since every time they have to pay a part of their debt that money is worth more and more. In that case, bankrupcies are likely to happen. However, as Jörg Guido Hülsmann puts it in his piece ["Deflation and Liberty"](https://mises.org/library/deflation-and-liberty-1): 
 
 ```
 In short, the true crux of deflation is that it does not
@@ -67,7 +65,7 @@ elites, whereas deflation means open redistribution
 through bankruptcy according to the law
 ```
 
-Finally, more savings in the hands of citizens contribute to a more resilient society, especially in times of economic turmoil, uncertainty or depression. I won't go into the details of this point, but this alone seems to me a good reason to have a currency which favors saving.
+Coming back to the original argument, more savings (or hoarding, if you prefer the pejorative term) in the hands of citizens contribute to a more resilient society, especially in times of economic turmoil, uncertainty or depression. I won't go into the details of this point, but this alone seems to me a good reason to have a currency which favors saving.
 
 # Conclusions <a name="conclusions"></a>
 
@@ -76,14 +74,14 @@ This forced redistribution is terribly unfair, especially if citizens are forced
 
 If the goal is to distribute wealth to the poor, there are better ways than inflation (which almost always benefit the rich and create an unfair redistribution).
 
-Also, price stability does not need to be good per se. What needs to be stable is the reference against which we price our goods and services, so the price signal is sent around to all participants of the economy to do whatever they see fit. By keeping prices artificially stable, we lose a much valuable information and we fight an unnecesary battle against the deflationary force or technology and progress. Stable prices are good but cheaper prices are way better.
+Also, printing money to guarantee price stability does not need to be good per se. What needs to be stable is the reference against which we price our goods and services, so the price signal is sent around to all participants of the economy to do whatever they see fit. By keeping prices artificially stable, we lose a much valuable information and we fight an unnecesary battle against the deflationary force or technology and progress. Stable prices are good but cheaper prices are way better.
 
 Saving money means that you lower your 'time preference', that is, you decide to not give in to your immediate impulses and rather prepare for an uncertain future or just delay any consumption you could do now. 
 - If with time, your savings increase in value because society got more productive and you can buy more stuff with the same amount of money, that's a fair reward.
 - If with time, your savings lose value because society got less productive or there was a catastrophe, that's fair as well. At least you would be more prepared than someone who didn't save, so in comparison you are better off (or not so hardly hit by the catastrophe).
 - If with time, your savings lose value because money producers decided to print more money, that's unfair. Your savings lose value because of the interests of the money producers, which most likely won't be aligned with yours.
 
-If the Government didn't force you to use their money via legal-tender laws, and different monies were allowed to participate in a free market, then people could choose whatever money fit better for them. In this case, people could choose if the money printing by the Government is something they would tolerate by staying in that currency or switching to a different one. With a free competition of monies, money printing would not be as unfair as when one is not allowed to exit a particular fiat currency.
+If the government didn't force you to use their money via legal-tender laws, and different monies were allowed to participate in a free market, then people could choose whatever money fit better for them. In this case, people could choose if the money printing by the government is something they would tolerate by staying in that currency or switching to a different one. With a free competition of monies, money printing would not be as unfair as when one is not allowed to exit a particular fiat currency.
 
 I guess the underlaying issue I have with printing money is a question of liberty. In particular, the option of delaying consumption is unfairly punished: with inflation you are incentivized to spend because otherwise your savings lose value via the hidden tax of inflation. If the goverment only allows one money for you to store your savings, and at the same time, they dilute that money at their will, they are taking freedom from you to decide when to spend your hard-earned money.
 
