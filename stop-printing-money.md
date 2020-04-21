@@ -35,7 +35,7 @@ Technology adds a deflationary pressure on the economy, since with the same amou
 Another consequence of the argument for price stability is that if you roll back long enough in history, let's say, back to when we were Homo habilis using the first tools, we should then spend most of our salaries *now* in a piece of wood or some plates, because the price should have remained stable throughout History.
 Luckily enough that was not the case and the fact that we got better at developing techonology and prices were reduced for most things, we were allowed to allocate our time and resources on new things that improved our lives, up to mobile phones, food delivery, internet, you name it.
 
-Let's not forget that prices give shape to a system that sums up the overwhelming amount of knowledge affecting all different goods and services in an economy. Distorting them is not only unnecesarry but also harmful.
+Let's not forget that prices give shape to a system that sums up the overwhelming amount of knowledge affecting all different goods and services in an economy. Distorting them is not only unnecesary but also harmful.
 
 # Argument: hoarding <a name="arg2"></a>
 *The incentive is in saving (hoarding) and not in spending. This eventually diminishes economic activity, leading to bankrupcies, unemployment and other negative effects.*
@@ -69,7 +69,7 @@ Coming back to the original argument, more savings (or hoarding, if you prefer t
 
 # Conclusions <a name="conclusions"></a>
 
-Creating money out of thing air is a means of redistributing the wealth from the savers to the ones that receive the new money. By printing money, the currency is diluted and the value stored in savings goes mainly to those who receive the new money first.
+Creating money out of thin air is a means of redistributing the wealth from the savers to the ones that receive the new money. By printing money, the currency is diluted and the value stored in savings goes mainly to those who receive the new money first.
 This forced redistribution is terribly unfair, especially if citizens are forced by law to use the state-approved currency which is being debased. 
 
 If the goal is to distribute wealth to the poor, there are better ways than inflation (which almost always benefit the rich and create an unfair redistribution).
