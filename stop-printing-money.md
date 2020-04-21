@@ -26,6 +26,7 @@ For clarity, I outline here the premises assumed in all the arguments in this to
 # Argument: price stability is good <a name="arg1"></a>
 *It is fair to print new money in order to keep prices stable*
 
+[Back to Table of Contents](#toc)
 ## Answer
 I have no issue with prices being stable if that is what the market determines.
 However, why would you want to keep prices stable artificially? To be able to buy the same amount of goods (or services) with your money? Ok, that seems fair. At least, initially. The issue I have with this argument is that the whole point of improving technology is to increase productivity in a way that makes things cheaper and more accessible to the population overall. That is, if stable prices are good, cheaper prices are much better.
@@ -39,6 +40,8 @@ Let's not forget that prices give shape to a system that sums up the overwhelmin
 
 # Argument: hoarding <a name="arg2"></a>
 *The incentive is in saving (hoarding) and not in spending. This eventually diminishes economic activity, leading to bankrupcies, unemployment and other negative effects.*
+
+[Back to Table of Contents](#toc)
 
 ## Answer
 
