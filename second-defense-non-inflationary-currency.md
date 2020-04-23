@@ -1,4 +1,4 @@
-# Stop printing money!
+# Second defense of a non-inflationary currency
 
 ![Stop printing money](./images/3931.jpg "Stop printing money")
 
