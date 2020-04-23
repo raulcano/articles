@@ -5,3 +5,6 @@ https://github.com/raulcano/articles/blob/master/fairness-of-deflationary-curren
 
 ## Stop printing money!
 https://github.com/raulcano/articles/blob/master/stop-printing-money.md
+
+## Verification of PlanB's Stock-to-flow model for the price of bitcoin
+https://github.com/raulcano/bitcoin-analysis/blob/master/btc-analysis.ipynb
