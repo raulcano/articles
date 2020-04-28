@@ -5,6 +5,7 @@ This page is the index to the articles and similar contents I publish in GitHub.
 1. [On the fairness of a non-inflationary currency](#art1)
 2. [Second defense of a non-inflationary currency](#art2)
 3. [Verification of PlanB's Stock-to-flow model for the price of bitcoin](#art3)
+4. [Printing money is a bad policy](#art4)
 
 # Articles
 ## [On the fairness of a non-inflationary currency](https://github.com/raulcano/articles/blob/master/fairness-of-deflationary-currency.md) <a name="art1"></a>
@@ -31,3 +32,9 @@ Additionally, I used a total of 1158 datapoints, in contrast with the 111 used b
 [Back to Table of Contents](#toc)
 
 ---
+
+## [Printing money is a bad policy](https://github.com/raulcano/articles/blob/master/printing-money-bad-policy.md) <a name="art3"></a>
+
+*Natural catastrophes, ranging from climate-related ones to pandemics are part of the world we live in. If we want to be consistently moral and fair in our defense of how to improve the economy in such scenarios, the strategy we follow to protect us from the latest disaster must necessarily consider that there will be future ones. Not taking that into account ignores the future victims, which are a direct consequence of our current actions, of building a fragile society based on debt, spending and inflation; these future victims are as worthy of our protection as the current ones but, unluckily for them, they are harder to track and link to the original cause of their disgrace.* [Read more](https://github.com/raulcano/articles/blob/master/printing-money-bad-policy.md)  
+[Back to Table of Contents](#toc)
+
