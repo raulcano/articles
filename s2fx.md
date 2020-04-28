@@ -1,6 +1,6 @@
 # S2FX: El Modelo S2F de Bitcoin con Activos Cruzados
 
-NOTA: Este artículo es una traducción autorizada del texto original de PlanB - "[Bitcoin Stock-to-Flow Cross Asset Model](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)"
+NOTA: Este artículo es una traducción del texto original de PlanB - "[Bitcoin Stock-to-Flow Cross Asset Model](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)"
 
 ---
 
