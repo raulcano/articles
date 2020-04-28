@@ -90,7 +90,17 @@ Para llegar al modelo S2FX uso análisis de regresión. Nótese que una gran dif
 
 ![Regression analysis](./images/s2fx-8.png "Regression analysis")
 
+La fórmula del modelo S2FX se puede usar para estimar el valor de mercado de la siguiente fase/clúster de BTC (el S2F de BTC será 56 en 2020-2024):
 
+Valor de mercado = exp(12.7598) * 56^4.1167 = 5.5 billones de USD
+
+Esto se traduce en un precio por BTC (con un total de 19 millones de BTC en 2020-2024) de 288,000 USD.
+
+La predicción del precio por BTC es significativamente superior a los 55,000 USD del estudio original. Por favor, tengan en cuenta que el modelo S2FX es un primer paso que no ha sido replicado ni revisado por otros.
+
+__Nota 1:__ 
+
+__Nota 2:__
 
 
 ![Interpolation (left) and extrapolation (right)](./images/s2fx-9.png "Interpolation (left) and extrapolation (right)")
