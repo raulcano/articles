@@ -14,7 +14,7 @@ El modelo original BTC S2F es una fórmula basada en el S2F mensual y precio del
 
 ![Modelo S2F actual](./images/s2fx-1.png "Modelo S2F actual")
 
-Modelo S2F actual  
+*Modelo S2F actual*
 
 
 Si no estáis familiarizados con el modelo S2F, recomiendo encarecidamente leer el artículo original, pues ahí se explica el trasfondo y la terminología.
@@ -27,7 +27,25 @@ Segundo, describiré el modelo S2FX, cómo funciona y qué significan los result
 
 ## Transiciones de fase
 
-...
+Las transiciones de fase dan una perspectiva importante para entender el modelo S2FX. Durante las transiciones de fase, las cosas ganan propiedades totalmente diferentes. Las transiciones son frecuentemente discontinuas. Tres ejemplos de transiciones de fase son:
+- Agua
+- El dólar (USD)
+- BTC
+
+### Agua
+El ejemplo clásico de transición de fase es el agua. El agua existe en cuatro fases distintas (estados): sólido, líquido, gas e ionizado. Todos son agua, pero en cada fase el agua tiene propiedades totalmente distintas.
+
+![Transición fase del agua](./images/s2fx-2.png "Transición fase del agua")
+
+### El dólar (USD)
+Las transiciones de fase también están presentes en las finanzas. Por ejemplo, el dólar USD ha transicionado desde la moneda de oro (1 dólar = 371.25 granos de plata pura = 24 granos de oro), hacia papel respaldado por oro ("Pagable al portador en monedas de oro bajo demanda"), hacia papel no respaldado por nada ("Este billete es moneda legal para todas las deudas públicas y privadas"). Aunque lo sigamos llamando dólar USD, el dólar tiene propiedades totalmente diferentes en estas tres fases.
+
+![Transición fase del dolar](./images/s2fx-3.png "Transición fase del dolar")
+
+### BTC
+Lo mismo es cierto para el BTC.
+
+![Transición fase del BTC](./images/s2fx-4.png "Transición fase del BTC")
 
 ## S2FX: el modelo S2F de BTC con activos cruzados
 
