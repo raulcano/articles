@@ -19,6 +19,8 @@ Modelo S2F actual
 
 Si no estáis familiarizados con el modelo S2F, recomiendo encarecidamente leer el artículo original, pues ahí se explica el trasfondo y la terminología.
 
+En este artículo cimento la base del modelo S2F actual al quitar el factor tiempo y añadir otros activos (plata y oro) al modelo. A éste, lo llamo S2FX: el modelo S2F de Bitcoin con activos cruzados. S2FX permite la valoración de distintos activos como la plata, el otro y el BTC con una sola fórmula.
+
 ...
 
 
