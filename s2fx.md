@@ -50,10 +50,10 @@ Lo mismo es cierto para el BTC. Nic Carter y Hasu muestran en su estudio de 2018
 
 Estas narrativas sobre el BTC parecen bien continuas en la gráfica. Sin embargo, si combinamos las narrativas con los hitos financieros (y luego los datos de S2F y de precio), se tornan bien parecidas a fases con transiciones más abruptas:  
 
-- "Prueba de concepto" -> Tras el "white paper" de Bitcoin [7]
-- "Pagos" -> tras la paridad con el dólar USD (1BTC = 1USD)
-- "Oro electrónico" -> tras el primer "halving", paridad casi completa con el oro (1BTC = 1 onza de oro)
-- "Activo financiero" -> tras el segundo "halving" (hito de 1000 millones de USD en transacciones diarias, claridad legal en Japón y Australia, mercados de futuros en CME y Bakkt)
+1. "Prueba de concepto" -> Tras el "white paper" de Bitcoin [7]
+2. "Pagos" -> tras la paridad con el dólar USD (1BTC = 1USD)
+3. "Oro electrónico" -> tras el primer "halving", paridad casi completa con el oro (1BTC = 1 onza de oro)
+4. "Activo financiero" -> tras el segundo "halving" (hito de 1000 millones de USD en transacciones diarias, claridad legal en Japón y Australia, mercados de futuros en CME y Bakkt)
 
 Estos tres ejemplos de transiciones de fase en el agua, el dólar USD y en BTC ofrecen una nueva perspectiva para BTC y S2F. Es importante pensar no sólo en términos de series temporales continuas sino también en fases con transiciones abruptas. Al desarrollar el modelo S2FX, veo BTC como un activo distinto en cada fase, con propiedades completamente distintas. El siguiente paso lógico es identificar y cuantificar las transiciones de fase de BTC.
 
@@ -64,10 +64,16 @@ La siguiente gráfica muestra los valores de S2F y precio mensuales del modelo S
 
 Estos cuatro clústeres podrían indicar transiciones de fase.
 
-La cuantificación de estos clústeres se puede lograr minimizando la distancia entre valores mensuales de BTC y clústeres. Aquí uso un algoritmo genético (minimización de la distancia absoluta) para cuantificar cuatro clústeres. Investigaciones futuras podrían centrarse en distintos algoritmos de "clustering" (por ejemplo, el algoritmo de k-means).
+La cuantificación de estos clústeres se puede lograr minimizando la distancia entre valores mensuales de BTC y clústeres. Aquí uso un algoritmo genético (minimización de la distancia absoluta) para cuantificar cuatro clústeres. Investigaciones futuras podrían centrarse en distintos algoritmos de "clustering" (por ejemplo, el algoritmo *k-means*).
 
 ![Bitcoin Clusters!](./images/s2fx-6.png "Bitcoin Clusters!")
 
+Cada uno de los cuatro clústeres de BTC identificados tiene una combinación distinta de S2F-valor-de-mercado, que parece consistente con los "halvings" y las narrativas cambiantes de BTC.
+
+1.  
+2. 
+3. 
+4. 
 
 ![](./images/s2fx-7.png "...")
 ![](./images/s2fx-8.png "...")
