@@ -58,7 +58,20 @@ Estas narrativas sobre el BTC parecen bien continuas en la gráfica. Sin embargo
 Estos tres ejemplos de transiciones de fase en el agua, el dólar USD y en BTC ofrecen una nueva perspectiva para BTC y S2F. Es importante pensar no sólo en términos de series temporales continuas sino también en fases con transiciones abruptas. Al desarrollar el modelo S2FX, veo BTC como un activo distinto en cada fase, con propiedades completamente distintas. El siguiente paso lógico es identificar y cuantificar las transiciones de fase de BTC.
 
 ## S2FX: el modelo S2F de BTC con activos cruzados
+La siguiente gráfica muestra los valores de S2F y precio mensuales del modelo S2F original. Se pueden idenfificar visualmente cuatro clústeres.
 
+![Clustering en el modelo S2F original](./images/s2fx-5.png "Clustering en el modelo S2F original")
+
+Estos cuatro clústeres podrían indicar transiciones de fase.
+
+La cuantificación de estos clústeres se puede lograr minimizando la distancia entre valores mensuales de BTC y clústeres. Aquí uso un algoritmo genético (minimización de la distancia absoluta) para cuantificar cuatro clústeres. Investigaciones futuras podrían centrarse en distintos algoritmos de "clustering" (por ejemplo, el algoritmo de k-means).
+
+![Bitcoin Clusters!](./images/s2fx-6.png "Bitcoin Clusters!")
+
+
+![](./images/s2fx-7.png "...")
+![](./images/s2fx-8.png "...")
+![](./images/s2fx-9.png "...")
 
 ...
 
