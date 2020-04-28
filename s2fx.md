@@ -43,9 +43,19 @@ Las transiciones de fase también están presentes en las finanzas. Por ejemplo,
 ![Transición fase del dolar](./images/s2fx-3.png "Transición fase del dolar")
 
 ### BTC
-Lo mismo es cierto para el BTC.
+Lo mismo es cierto para el BTC. Nic Carter y Hasu muestran en su estudio de 2018 cómo las narrativas sobre BTC han cambiado con el tiempo [6].
 
 ![Transición fase del BTC](./images/s2fx-4.png "Transición fase del BTC")
+*[Cómo las mayores narrativas sobre Bitcoin han cambiado con el tiempo](https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c)*
+
+Estas narrativas sobre el BTC parecen bien continuas en la gráfica. Sin embargo, si combinamos las narrativas con los hitos financieros (y luego los datos de S2F y de precio), se tornan bien parecidas a fases con transiciones más abruptas:  
+
+- "Prueba de concepto" -> Tras el "white paper" de Bitcoin [7]
+- "Pagos" -> tras la paridad con el dólar USD (1BTC = 1USD)
+- "Oro electrónico" -> tras el primer "halving", paridad casi completa con el oro (1BTC = 1 onza de oro)
+- "Activo financiero" -> tras el segundo "halving" (hito de 1000 millones de USD en transacciones diarias, claridad legal en Japón y Australia, mercados de futuros en CME y Bakkt)
+
+
 
 ## S2FX: el modelo S2F de BTC con activos cruzados
 
