@@ -77,22 +77,24 @@ Cada uno de los cuatro clústeres de BTC identificados tiene una combinación di
 
 Al igual que el agua y el dólar USD, estos cuatro clústeres de BTC representan activos diferentes, cada uno con diversas narrativa y características. El BTC como "Prueba de concepto" con S2F 1.3 y sólo 1 millón USD de valor de mercado es un activo totalmente distinto del BTC como "Activo financiero", con S2F 25 y 114,000 millones USD de valor de mercado.
 
-Con la pers
+Con la perspectiva de transición de fase donde los clústeres de BTC son activos distintos, puedo añadir otros activos como la plata y el oro al modelo. Esto lo convierte realmente en un modelo de activos cruzados. Para la plata y el oro uso los valores de *stock* y de *flow* del reciente análisis de Jan Nieuwenhuijs [8] y los precios de TradingView de diciembre de 2019.
 
-![](./images/s2fx-7.png "...")
-![](./images/s2fx-8.png "...")
-![](./images/s2fx-9.png "...")
+5. Plata, S2F 33.3 y valor de mercado de 561,000 millones USD
+6. Oro, S2F 58.3 y valor de mercado de 10.088 billones USD
 
-...
+![Bitcoin Clusters](./images/s2fx-7.png "Bitcoin Clusters 2")
 
+Esta gráfica muestra los cuatro clústeres de BTC cuantificados (además del valor mensual de BTC para dar contexto), plata y oro. Se sitúan en una línea perfecta.
 
+Para llegar al modelo S2FX uso análisis de regresión. Nótese que una gran diferencia con el modelo S2F original es que uso los valores de S2F de la plata y el oro en el análisis de regresión. El modelo S2FX muestra una relación significativa entre el valor de S2F y el valor de mercado de estos seis activos (significancia estadística baja, p-valores bajos), con un alineamiento perfecto (99.7% R2).
 
-
-
-
-
+![Regression analysis](./images/s2fx-8.png "Regression analysis")
 
 
+
+
+![Interpolation (left) and extrapolation (right)](./images/s2fx-9.png "Interpolation (left) and extrapolation (right)")
+*Ejemplo de interpolación (izquierda) y extrapolación (derecha) - los datos muestrales en azul, el modelo es la línea negra, el punto rojo es la predicción*
 
 ## Conclusión
 
