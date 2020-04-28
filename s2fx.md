@@ -70,10 +70,14 @@ La cuantificación de estos clústeres se puede lograr minimizando la distancia 
 
 Cada uno de los cuatro clústeres de BTC identificados tiene una combinación distinta de S2F-valor-de-mercado, que parece consistente con los "halvings" y las narrativas cambiantes de BTC.
 
-1.  
-2. 
-3. 
-4. 
+1. BTC como "Prueba de concepto" (S2F 1.3 y valor de mercado de 1 millón USD)
+2. BTC como "Pagos" (S2F 3.3 y valor de mercado de 58 millones USD)
+3. BTC como "Oro electrónico" (S2F 10.2 y valor de mercado de 5,600 millones USD)
+4. BTC como "Activo financiero" (S2F 25.1 y valor de mercado de 114,000 millones USD)
+
+Al igual que el agua y el dólar USD, estos cuatro clústeres de BTC representan activos diferentes, cada uno con diversas narrativa y características. El BTC como "Prueba de concepto" con S2F 1.3 y sólo 1 millón USD de valor de mercado es un activo totalmente distinto del BTC como "Activo financiero", con S2F 25 y 114,000 millones USD de valor de mercado.
+
+Con la pers
 
 ![](./images/s2fx-7.png "...")
 ![](./images/s2fx-8.png "...")
