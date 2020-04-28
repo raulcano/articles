@@ -10,12 +10,14 @@ NOTA: Este artículo es una traducción autorizada del texto original de PlanB -
 
 El modelo Stock-to-Flow (S2F) de bitcoin (BTC) fue [publicado en Marzo de 2019](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25) [1].
 
-El modelo original BTC S2F es una fórmula basada en el S2F mensual y precio del BTC. Ya que los datos de muestra estaban indexados cronologicamente, es un modelo con una serie temporal. Este modelo ha activado a analistas cuantitativos de todo el mundo. Muchos han verificado la relación no espúrea entre S2F y el precio de BTC [2][3][4][5].
+El modelo original BTC S2F es una fórmula basada en el S2F mensual y precio del BTC. Ya que los datos de muestra estaban indexados cronologicamente, es un modelo de serie temporal. Este modelo ha activado a analistas cuantitativos de todo el mundo. Muchos han verificado la relación no espúrea entre S2F y el precio de BTC [2][3][4][5].
 
 ![Modelo S2F actual](./images/s2fx-1.png "Modelo S2F actual")
 
 Modelo S2F actual  
 
+
+Si no estáis familiarizados con el modelo S2F, recomiendo encarecidamente leer el artículo original, pues ahí se explica el trasfondo y la terminología.
 
 ...
 
