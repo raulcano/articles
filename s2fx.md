@@ -1,4 +1,4 @@
-# S2FX: El Modelo S2F de Bitcoin con Activos Cruzados
+# S2FX: El Modelo S2F de Bitcoin de Activos Cruzados
 
 NOTA: Este artículo es una traducción del texto original de PlanB - "[Bitcoin Stock-to-Flow Cross Asset Model](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)"
 
@@ -19,7 +19,7 @@ El modelo original BTC S2F es una fórmula basada en el S2F mensual y precio del
 
 Si no estáis familiarizados con el modelo S2F, recomiendo encarecidamente leer el artículo original, pues ahí se explica el trasfondo y la terminología.
 
-En este artículo cimento la base del modelo S2F actual al quitar el factor tiempo y añadir otros activos (plata y oro) al modelo. A éste, lo llamo S2FX: el modelo S2F de Bitcoin con activos cruzados. S2FX permite la valoración de distintos activos como la plata, el otro y el BTC con una sola fórmula.
+En este artículo cimento la base del modelo S2F actual al quitar el factor tiempo y añadir otros activos (plata y oro) al modelo. A éste, lo llamo S2FX: el modelo S2F de Bitcoin de activos cruzados. S2FX permite la valoración de distintos activos como la plata, el otro y el BTC con una sola fórmula.
 
 Primero, describiré el concepto de transiciones de fase, ya que, introduce una nueva manera de pensar sobre BTC y S2F. Esto explica porqué el modelo S2FX es importante.
 
@@ -57,7 +57,7 @@ Estas narrativas sobre el BTC parecen bien continuas en la gráfica. Sin embargo
 
 Estos tres ejemplos de transiciones de fase en el agua, el dólar USD y en BTC ofrecen una nueva perspectiva para BTC y S2F. Es importante pensar no sólo en términos de series temporales continuas sino también en fases con transiciones abruptas. Al desarrollar el modelo S2FX, veo BTC como un activo distinto en cada fase, con propiedades completamente distintas. El siguiente paso lógico es identificar y cuantificar las transiciones de fase de BTC.
 
-## S2FX: el modelo S2F de BTC con activos cruzados
+## S2FX: el modelo S2F de BTC de activos cruzados
 La siguiente gráfica muestra los valores de S2F y precio mensuales del modelo S2F original. Se pueden idenfificar visualmente cuatro clústeres.
 
 ![Clustering en el modelo S2F original](./images/s2fx-5.png "Clustering en el modelo S2F original")
@@ -108,7 +108,7 @@ __Nota 2:__ El modelo S2FX permite la interpolación, en lugar de la extrapolaci
 
 ## Conclusión
 
-En este artículo cimiento la base del modelo S2F actual quitando el factor tiempo y añadiendo otros activos (plata y oro) al modelo. A éste, lo llamo S2FX: el modelo S2F de Bitcoin con activos cruzados. S2FX permite la valoración de distintos activos como la plata, el otro y el BTC con una sola fórmula.
+En este artículo cimiento la base del modelo S2F actual quitando el factor tiempo y añadiendo otros activos (plata y oro) al modelo. A éste, lo llamo S2FX: el modelo S2F de Bitcoin de activos cruzados. S2FX permite la valoración de distintos activos como la plata, el oro y el BTC con una sola fórmula.
 
 He explicado el concepto de transición de fase. Las transiciones de fase introducen una nueva manera de pensar sobre BTC y S2F, lo cual me llevó al S2FX.
 
