@@ -126,12 +126,12 @@ Solidificando los hechos conocidos del estudio original sobre S2F, el modelo S2F
 
 [3] [Marcel Burger](https://twitter.com/BurgerCryptoAM), [Reviewing “Modelling Bitcoin’s Value with Scarcity”](https://medium.com/burgercrypto-com/reviewing-modelling-bitcoins-value-with-scarcity-part-ii-the-hunt-for-cointegration-66a8dcedd7ef), Sep 2019
 
-[4] Mannuel Andersch, Is Bitcoin outshining gold?, Sep 2019
+[4] [Mannuel Andersch](https://twitter.com/moneymanolis), [Is Bitcoin outshining gold?](https://www.bayernlb.com/internet/media/ir/downloads_1/bayernlb_research/megatrend_publikationen/megatrend_bitcoins2f_20190930_EN.pdf), Sep 2019
 
-[5] Nick Emblow, Stock-to-Flow Influences on Bitcoin Price, Mar 2020
+[5] [Nick Emblow](https://twitter.com/btconometrics), [Stock-to-Flow Influences on Bitcoin Price](https://medium.com/@btconometrics/stock-to-flow-influences-on-bitcoin-price-8a52e475c7a1), Mar 2020
 
-[6] Nic Carter, Hasu@Hasufl, Visions of Bitcoin — How major Bitcoin narratives changed over time, Jul 2018
+[6] [Nic Carter](https://twitter.com/nic__carter), [Hasu@Hasufl](https://twitter.com/hasufl), [Visions of Bitcoin — How major Bitcoin narratives changed over time](https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c), Jul 2018
 
-[7] https://bitcoin.org/bitcoin.pdf — Satoshi Nakamoto, 2008
+[7] [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf) — Satoshi Nakamoto, 2008
 
 [8] [Jan Nieuwenhuijs, How Much Silver Is Above Ground?](https://twitter.com/JanGold_), Dec 2019
