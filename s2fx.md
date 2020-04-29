@@ -1,16 +1,16 @@
 # S2FX: El Modelo S2F de Bitcoin de Activos Cruzados
 
-NOTA: Este artículo es una traducción del texto original de PlanB - "[Bitcoin Stock-to-Flow Cross Asset Model](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)"
+NOTA: Este artículo es una traducción libre del texto original de PlanB - "[Bitcoin Stock-to-Flow Cross Asset Model](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)"
 
 ---
 
-*"Lo importante en ciencia no es tanto obtener nuevos datos como descubrir nuevas maneras de pensar sobre ellos" William Lawrence Bragg*
+*"Lo importante en ciencia no es tanto obtener nuevos datos como descubrir nuevas maneras de pensar sobre ellos" - William Lawrence Bragg*
 
 ## Introducción
 
 El modelo Stock-to-Flow (S2F) de bitcoin (BTC) fue [publicado en Marzo de 2019](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25) [1].
 
-El modelo original BTC S2F es una fórmula basada en el S2F mensual y precio del BTC. Ya que los datos de muestra estaban indexados cronologicamente, es un modelo de serie temporal. Este modelo ha activado a analistas cuantitativos de todo el mundo. Muchos han verificado la relación no espúrea entre S2F y el precio de BTC [2][3][4][5].
+El modelo original BTC S2F es una fórmula basada en el valor de S2F mensual y precio del BTC. Ya que los datos de muestra estaban indexados cronológicamente, es un modelo de serie temporal. Este modelo ha activado a analistas cuantitativos de todo el mundo. Muchos han verificado la relación no espúrea entre S2F y el precio de BTC [2][3][4][5].
 
 ![Modelo S2F actual](./images/s2fx-1.png "Modelo S2F actual")
 
@@ -21,7 +21,7 @@ Si no estáis familiarizados con el modelo S2F, recomiendo encarecidamente leer 
 
 En este artículo cimento la base del modelo S2F actual al quitar el factor tiempo y añadir otros activos (plata y oro) al modelo. A éste, lo llamo S2FX: el modelo S2F de Bitcoin de activos cruzados. S2FX permite la valoración de distintos activos como la plata, el otro y el BTC con una sola fórmula.
 
-Primero, describiré el concepto de transiciones de fase, ya que, introduce una nueva manera de pensar sobre BTC y S2F. Esto explica porqué el modelo S2FX es importante.
+Primero, describiré el concepto de transiciones de fase, ya que, introduce un nuevo modo de pensar sobre BTC y S2F. Esto explica porqué el modelo S2FX es importante.
 
 Segundo, describiré el modelo S2FX, cómo funciona y qué significan los resultados.
 
@@ -38,7 +38,7 @@ El ejemplo clásico de transición de fase es el agua. El agua existe en cuatro 
 ![Transición fase del agua](./images/s2fx-2.png "Transición fase del agua")
 
 ### El dólar (USD)
-Las transiciones de fase también están presentes en las finanzas. Por ejemplo, el dólar USD ha transicionado desde la moneda de oro (1 dólar = 371.25 granos de plata pura = 24 granos de oro), hacia papel respaldado por oro ("Pagable al portador en monedas de oro bajo demanda"), hacia papel no respaldado por nada ("Este billete es moneda legal para todas las deudas públicas y privadas"). Aunque lo sigamos llamando dólar USD, el dólar tiene propiedades totalmente diferentes en estas tres fases.
+Las transiciones de fase también están presentes en las finanzas. Por ejemplo, el dólar ha transicionado desde la moneda de oro (1 dólar = 371.25 granos de plata pura = 24 granos de oro), hacia papel respaldado por oro ("Pagable al portador en monedas de oro bajo demanda"), hacia papel no respaldado por nada ("Este billete es moneda legal para todas las deudas públicas y privadas"). Aunque lo sigamos llamando dólar, éste tiene propiedades totalmente diferentes en las tres fases.
 
 ![Transición fase del dolar](./images/s2fx-3.png "Transición fase del dolar")
 
@@ -55,7 +55,7 @@ Estas narrativas sobre el BTC parecen bien continuas en la gráfica. Sin embargo
 3. "Oro electrónico" -> tras el primer "halving", paridad casi completa con el oro (1BTC = 1 onza de oro)
 4. "Activo financiero" -> tras el segundo "halving" (hito de 1000 millones de USD en transacciones diarias, claridad legal en Japón y Australia, mercados de futuros en CME y Bakkt)
 
-Estos tres ejemplos de transiciones de fase en el agua, el dólar USD y en BTC ofrecen una nueva perspectiva para BTC y S2F. Es importante pensar no sólo en términos de series temporales continuas sino también en fases con transiciones abruptas. Al desarrollar el modelo S2FX, veo BTC como un activo distinto en cada fase, con propiedades completamente distintas. El siguiente paso lógico es identificar y cuantificar las transiciones de fase de BTC.
+Estos tres ejemplos de transiciones de fase en el agua, el dólar USD y el BTC ofrecen una nueva perspectiva para BTC y S2F. Es importante pensar no sólo en términos de series temporales continuas sino también en fases con transiciones abruptas. Al desarrollar el modelo S2FX, veo BTC como un activo distinto en cada fase, con propiedades completamente distintas. El siguiente paso lógico es identificar y cuantificar las transiciones de fase de BTC.
 
 ## S2FX: el modelo S2F de BTC de activos cruzados
 La siguiente gráfica muestra los valores de S2F y precio mensuales del modelo S2F original. Se pueden idenfificar visualmente cuatro clústeres.
@@ -64,7 +64,7 @@ La siguiente gráfica muestra los valores de S2F y precio mensuales del modelo S
 
 Estos cuatro clústeres podrían indicar transiciones de fase.
 
-La cuantificación de estos clústeres se puede lograr minimizando la distancia entre valores mensuales de BTC y clústeres. Aquí uso un algoritmo genético (minimización de la distancia absoluta) para cuantificar cuatro clústeres. Investigaciones futuras podrían centrarse en distintos algoritmos de "clustering" (por ejemplo, el algoritmo *k-means*).
+La cuantificación de estos clústeres se puede lograr minimizando la distancia entre valores mensuales de BTC y clústeres. Aquí uso un algoritmo genético (minimización de la distancia absoluta) para cuantificar cuatro clústeres. Investigaciones futuras podrían centrarse en distintos algoritmos de agrupación en clústeres (*clustering*) (por ejemplo, el algoritmo *k-means*).
 
 ![Bitcoin Clusters!](./images/s2fx-6.png "Bitcoin Clusters!")
 
