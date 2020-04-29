@@ -98,9 +98,9 @@ Esto se traduce en un precio por BTC (con un total de 19 millones de BTC en 2020
 
 La predicción del precio por BTC es significativamente superior a los 55,000 USD del estudio original. Por favor, tengan en cuenta que el modelo S2FX es un primer paso que no ha sido replicado ni revisado por otros.
 
-__Nota 1:__ 
+__Nota 1:__ Aunque seis observaciones es un número bajo, considero relevantes los resultados del modelo S2FX. Esto es por la alta significancia estadística (*F-significance*), los bajos *p-valores* y el alto coeficiente R2, pero también debido a la relación no-espúrea entre S2F y precio, así como de la cointegración en el análisis con series temporales. Investigaciones futuras podrían centrarse en añadir más activos al análisis. Sin embargo, la mayoría de activos tienen valores bajos de S2F (≤1) y por tanto no son interesantes. Por contra, los diamantes tienen un alto S2F, pero una valoración muy compleja (en bruto/tallados, quilates, distintos colores y brillo, etc.).
 
-__Nota 2:__
+__Nota 2:__ El modelo S2FX permite la interpolación, en lugar de la extrapolación del modelo S2F original, el cual hace predicciones fuera del rango de datos usados para hacer el modelo. El nuevo modelo S2FX hace una predicción dentro del rango de datos usados para derivar la fórmula.
 
 
 ![Interpolation (left) and extrapolation (right)](./images/s2fx-9.png "Interpolation (left) and extrapolation (right)")
