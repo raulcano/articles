@@ -108,9 +108,9 @@ __Nota 2:__ El modelo S2FX permite la interpolación, en lugar de la extrapolaci
 
 ## Conclusión
 
-En este artículo cimiento la base del modelo S2F actual quitando el factor tiempo y añadiendo otros activos (plata y oro) al modelo. A éste, lo llamo S2FX: el modelo S2F de Bitcoin de activos cruzados. S2FX permite la valoración de distintos activos como la plata, el oro y el BTC con una sola fórmula.
+En este artículo cimento la base del modelo S2F actual quitando el factor tiempo y añadiendo otros activos (plata y oro) al modelo. A ésto lo llamo S2FX: el modelo S2F de Bitcoin de activos cruzados. S2FX permite la valoración de distintos activos como la plata, el oro y el BTC con una sola fórmula.
 
-He explicado el concepto de transición de fase. Las transiciones de fase introducen una nueva manera de pensar sobre BTC y S2F, lo cual me llevó al S2FX.
+He explicado el concepto de transición de fase. Las transiciones de fase introducen una nueva manera de pensar sobre BTC y S2F, lo cual me ha llevado al S2FX.
 
 La fórmula del modelo S2FX se ajusta perfectamente a los datos (99.7% R2).
 
@@ -135,3 +135,9 @@ Solidificando los hechos conocidos del estudio original sobre S2F, el modelo S2F
 [7] [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf) — Satoshi Nakamoto, 2008
 
 [8] [Jan Nieuwenhuijs, How Much Silver Is Above Ground?](https://twitter.com/JanGold_), Dec 2019
+
+## Notas del traductor
+En el artículo original, PlanB usa los valores anglosajones del "billón"(*billion* = 10^9) y al "trillón" (*trillion* = 10^12).
+
+Al traducir al español he usado los valores normales que se utilizan en esta lengua (billón = 10^12; no ha sido necesario usar la palabra "trillón").
+
