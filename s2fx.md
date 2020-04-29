@@ -1,6 +1,6 @@
 # S2FX: El Modelo S2F de Bitcoin de Activos Cruzados
 
-NOTA: Este artículo es una traducción libre del texto original de PlanB - "[Bitcoin Stock-to-Flow Cross Asset Model](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)"
+NOTA: Este artículo es una traducción libre del texto original de [PlanB](https://twitter.com/100trillionUSD) - "[Bitcoin Stock-to-Flow Cross Asset Model](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)"
 
 ---
 
@@ -137,6 +137,9 @@ Solidificando los hechos conocidos del estudio original sobre S2F, el modelo S2F
 [8] [Jan Nieuwenhuijs, How Much Silver Is Above Ground?](https://twitter.com/JanGold_), Dec 2019
 
 ## Notas del traductor
+*Este artículo es una traducción libre del texto original de [PlanB](https://twitter.com/100trillionUSD) - "[Bitcoin Stock-to-Flow Cross Asset Model](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)"*
+
+
 En el artículo original, PlanB usa los valores anglosajones del "billón"(*billion* = 10^9) y al "trillón" (*trillion* = 10^12).
 
 Al traducir al español he usado los valores normales que se utilizan en esta lengua (billón = 10^12; no ha sido necesario usar la palabra "trillón").
