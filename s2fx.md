@@ -10,7 +10,7 @@ NOTA: Este artículo es una traducción autorizada del texto original de [PlanB]
 
 El modelo Stock-to-Flow (S2F) de bitcoin (BTC) fue [publicado en Marzo de 2019](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25) [1].
 
-El modelo original BTC S2F es una fórmula basada en el valor de S2F mensual y precio del BTC. Ya que los datos de muestra estaban indexados cronológicamente, es un modelo de serie temporal. Este modelo ha activado a analistas cuantitativos de todo el mundo. Muchos han verificado la relación no espúrea entre S2F y el precio de BTC [2][3][4][5].
+El modelo original BTC S2F es una fórmula basada en el valor de S2F mensual y precio del BTC. Ya que los datos de muestra estaban indexados cronológicamente, es un modelo de serie temporal. Este modelo ha activado a analistas cuantitativos de todo el mundo. Muchos han verificado la relación no espúrea entre S2F y el precio de BTC [2][3][4].
 
 ![Modelo S2F actual](./images/s2fx-1.png "Modelo S2F actual")
 
@@ -43,14 +43,14 @@ Las transiciones de fase también están presentes en las finanzas. Por ejemplo,
 ![Transición fase del dolar](./images/s2fx-3.png "Transición fase del dolar")
 
 ### BTC
-Lo mismo es cierto para el BTC. Nic Carter y Hasu muestran en su estudio de 2018 cómo las narrativas sobre BTC han cambiado con el tiempo [6].
+Lo mismo es cierto para el BTC. Nic Carter y Hasu muestran en su estudio de 2018 cómo las narrativas sobre BTC han cambiado con el tiempo [5].
 
 ![Transición fase del BTC](./images/s2fx-4.png "Transición fase del BTC")
 *[Cómo las mayores narrativas sobre Bitcoin han cambiado con el tiempo](https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c)*
 
 Estas narrativas sobre el BTC parecen bien continuas en la gráfica. Sin embargo, si combinamos las narrativas con los hitos financieros (y luego los datos de S2F y de precio), se tornan bien parecidas a fases con transiciones más abruptas:  
 
-1. "Prueba de concepto" -> Tras el "white paper" de Bitcoin [7]
+1. "Prueba de concepto" -> Tras el "white paper" de Bitcoin [6]
 2. "Pagos" -> tras la paridad con el dólar USD (1BTC = 1USD)
 3. "Oro electrónico" -> tras el primer "halving", paridad casi completa con el oro (1BTC = 1 onza de oro)
 4. "Activo financiero" -> tras el segundo "halving" (hito de 1000 millones de USD en transacciones diarias, claridad legal en Japón y Australia, mercados de futuros en CME y Bakkt)
@@ -77,7 +77,7 @@ Cada uno de los cuatro clústeres de BTC identificados tiene una combinación di
 
 Al igual que el agua y el dólar USD, estos cuatro clústeres de BTC representan activos diferentes, cada uno con diversas narrativa y características. El BTC como "Prueba de concepto" con S2F 1.3 y sólo 1 millón USD de valor de mercado es un activo totalmente distinto del BTC como "Activo financiero", con S2F 25 y 114,000 millones USD de valor de mercado.
 
-Con la perspectiva de transición de fase donde los clústeres de BTC son activos distintos, puedo añadir otros activos como la plata y el oro al modelo. Esto lo convierte realmente en un modelo de activos cruzados. Para la plata y el oro uso los valores de *stock* y de *flow* del reciente análisis de Jan Nieuwenhuijs [8] y los precios de TradingView de diciembre de 2019.
+Con la perspectiva de transición de fase donde los clústeres de BTC son activos distintos, puedo añadir otros activos como la plata y el oro al modelo. Esto lo convierte realmente en un modelo de activos cruzados. Para la plata y el oro uso los valores de *stock* y de *flow* del reciente análisis de Jan Nieuwenhuijs [7] y los precios de TradingView de diciembre de 2019.
 
 5. Plata, S2F 33.3 y valor de mercado de 561,000 millones USD
 6. Oro, S2F 58.3 y valor de mercado de 10.088 billones USD
@@ -128,13 +128,11 @@ Solidificando los hechos conocidos del estudio original sobre S2F, el modelo S2F
 
 [4] [Mannuel Andersch](https://twitter.com/moneymanolis), [Is Bitcoin outshining gold?](https://www.bayernlb.com/internet/media/ir/downloads_1/bayernlb_research/megatrend_publikationen/megatrend_bitcoins2f_20190930_EN.pdf), Sep 2019
 
-[5] [Nick Emblow](https://twitter.com/btconometrics), [Stock-to-Flow Influences on Bitcoin Price](https://medium.com/@btconometrics/stock-to-flow-influences-on-bitcoin-price-8a52e475c7a1), Mar 2020
+[5] [Nic Carter](https://twitter.com/nic__carter), [Hasu@Hasufl](https://twitter.com/hasufl), [Visions of Bitcoin — How major Bitcoin narratives changed over time](https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c), Jul 2018
 
-[6] [Nic Carter](https://twitter.com/nic__carter), [Hasu@Hasufl](https://twitter.com/hasufl), [Visions of Bitcoin — How major Bitcoin narratives changed over time](https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c), Jul 2018
+[6] [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf) — Satoshi Nakamoto, 2008
 
-[7] [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf) — Satoshi Nakamoto, 2008
-
-[8] [Jan Nieuwenhuijs, How Much Silver Is Above Ground?](https://twitter.com/JanGold_), Dec 2019
+[7] [Jan Nieuwenhuijs, How Much Silver Is Above Ground?](https://twitter.com/JanGold_), Dec 2019
 
 ## Notas del traductor
 *Este artículo es una traducción autorizada del texto original de [PlanB](https://twitter.com/100trillionUSD) - "[Bitcoin Stock-to-Flow Cross Asset Model](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)"*
