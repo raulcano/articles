@@ -43,6 +43,6 @@ Additionally, I used a total of 1158 datapoints, in contrast with the 111 used b
 
 ## [Price stability revisited](https://github.com/raulcano/articles/blob/master/inflation-and-price-stability.md) <a name="art5"></a>
 
-*...with a rate of monetary inflation pegged to productivity, we lose information about the evolution of the means of production of products and services. With no monetary inflation however, knowledge is better relayed since prices are attached to each element in the economy and affected by its relevant characteristics, instead of being aggregated into arbitrary indices which are unfairly composed and ignore the individual choices of each person..* [Read more](https://github.com/raulcano/articles/blob/master/inflation-and-price-stability.md)  
+*...with a rate of monetary inflation pegged to productivity, we lose information about the evolution of the means of production of products and services. With no monetary inflation however, knowledge is better relayed since prices are attached to each element in the economy and affected by its relevant characteristics, instead of being aggregated into arbitrary indices which are unfairly composed and ignore the individual choices of each person.* [Read more](https://github.com/raulcano/articles/blob/master/inflation-and-price-stability.md)  
 [Back to Table of Contents](#toc)
 
