@@ -1,5 +1,5 @@
 # Introduction
-This page is the index to the articles and similar contents I publish in GitHub.
+This page is the index to the articles I publish in GitHub.
 
 # Table of contents <a name="toc"></a>
 1. [On the fairness of a non-inflationary currency](#art1)

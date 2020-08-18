@@ -8,7 +8,7 @@ Since I wrote my initial articles about the fairness of a non-inflationary curre
 1. [The argument from price stability](#arg)
 2. [Answer 1: Impracticality](#ans1)
 3. [Answer 2: Consumer price indices](#ans2)
-4. [Answer 3: Wages](#ans2)
+4. [Answer 3: Wages](#ans3)
 5. [Conclusion](#conclusion)
 
 # The argument from price stability <a name="arg"></a>
@@ -43,20 +43,20 @@ Additionally, Rothbard adds one of the main risks introduced by the approach of 
 
   _"The PPM criterion gives great and arbitrary powers to those charged with making up the algorithm."_
 
-This seems a minor point but certainly it is not. Every time an index is created for this purpose, we introduce a tempting incentive for producers to intensively lobby the person(s) in charge of such index according to each particular group's interests. The selection of goods and their weigh are then linked to pressures, arbitrary decisions and, eventually, corruption.
+This seems a minor point but certainly it is not. Every time an index is created for this purpose, we introduce a tempting and pernicious incentive for producers to intensively lobby the person(s) in charge of such index according to each particular group's interests. The selection of goods and their weigh are then linked to pressures, arbitrary decisions and, eventually, corruption.
 In the end, the quanitity of new money printed would be the result in part of which lobbies have succeeded the most in adding or removing products from such index, instead of what is "objectively" the overall productivity change.
 
 [Back to Table of Contents](#toc)
 
 ## Answer 3: Wages <a name="ans3"></a>
-What about wages? This is a different and less obvious answer. Imagine we could accomplish an inflation pegged to productivity, where the prices of goods and services change accordingly. Should we then increase or decrease wages as well?
+What about wages? This is a different and less obvious answer. Imagine we could accomplish an inflation pegged to productivity where the prices of goods and services change accordingly. Should we then increase or decrease wages as well?
 
 There are two options:
-1. __Wages change as well with productivity increase__. That is, if productivity increases by 5%, the central bank prints 5% more money and wages increase by that same percentage as well. Let's not forget that wages are also a price of a particular service (the time and skills of the worker). The problem is that the original argument defends that productivity changes shall also affect products and services.
+1. __Wages change as well with productivity increase__. That is, if productivity increases by 5%, the central bank prints 5% more money and wages increase by that same percentage as well. Let's not forget that wages are also a price of a particular service (the time and skills of the worker), so if the original argument defends that productivity changes shall also affect products and services for the sake of predictability, we defeat the purpose by changing the wages.
 
-2. __Wages do not change as well with productivity increase__. In this case, even with the inflation provoked by the central bank, wages shall remain constant regardless of the productivity increase. I am not sure anyone defends this position since in this scenario we won't be allowing any person to reap the benefits of any technological advancement, since their purchase power does not improve with new and more efficient means of production.
+2. __Wages do not change as well with productivity increase__. In this case, even with the inflation provoked by the central bank, wages shall remain constant regardless of the productivity increase. People's purchase power does not improve with new and more efficient means of production. Maybe predictability is achieved (it isn't) but it comes at the unbearable cost of not allowing any person to reap the benefits of any technological advancement. Let alone the incentive added to a market: if no one is allowed to benefit from productivity increases, why would anyone bother to produce new methods or techniques, invest their capital or assume the risks that go hand in hand with innovation?
 
- Why should then prices of some products remain fixed (e.g. bread) but not other prices (e.g. wages). The argument we answer in this article defends in most cases the option 1), that is, for the sake of __predictability__, we change the price of wages when the productivity of bread has increased. But it does forget that wages are also a price that needs to be accounted for economic decisions of employers, who also would benefit of such predictability. If prices stay stable but we allow for changing wages prices we are in effect hiding information to economic actors of which products have become cheaper (or more expensive) to produce, since all about that is aggregated in wages. Their economic decisions become riskier due to the lack of detailed information on the production of goods and services. Hence, this means that predictability is __effectively lost__.  
+In short, why should then prices of some products remain fixed (e.g. bread) but not other prices (e.g. wages). I guess that most people that defend the argument from price stability would go with the option 1. That is, for the sake of __predictability__, we change the price of wages when the productivity of any good has increased. But it does forget that wages are also a price that needs to be accounted for economic decisions of employers, who would benefit as well of such predictability. If prices stay stable but we allow for changing wages prices we are in effect hiding information to economic actors of which products have become cheaper (or more expensive) to produce, since all that info is aggregated in wages. Their economic decisions become riskier due to the lack of detailed information on the production of goods and services. Hence, this means that predictability is __effectively lost__.  
 
 [Back to Table of Contents](#toc)
 
@@ -64,11 +64,11 @@ There are two options:
 
 Technology is a deflationary force. That is, as productivity increases, goods and services become cheaper. We cannot predict, however, which technologies will revolutionize which areas so the best we can do is to reflect those productivity changes in the prices of the products and services affected. 
 
-Pretending that inflating the money supply according to productivity is somehow helping to make the world more predictable, is not only completely wrong, but also it introduces a whole new set of problems and unfairness in the system.
+Pretending that inflating the money supply according to productivity is somehow helping to make the world more predictable, is not only naive and wrong, but also it introduces a whole new set of problems and unfairness in the system.
 
-Wouldn't it send a clearer message to the market to directly change the price of the product that had its output affected? It seems to me a crazy way of seeing things and clearly the proposed solution misses the point it tries to defend (predictability).
+Wouldn't it send a clearer message to the market to directly change the price of the product that had its output affected? The argument from price stability seems to me a crazy way of seeing things and clearly the proposed solution misses the point it tries to defend (predictability).
 
-In summary, with a rate of monetary inflation pegged to productivity, we lose information about the evolution of the means of production of products and services. With no monetary inflation however, knowledge is better relayed since prices are attached to each element in the economy and affected by its relevant characteristics, instead of being aggregated and into arbitrary indices which are unfairly composed and ignore the individual choices of each person.
+In summary, with a rate of monetary inflation pegged to productivity, we lose information about the evolution of the means of production of products and services. With no monetary inflation however, knowledge is better relayed since prices are attached to each element in the economy and affected by its relevant characteristics, instead of being aggregated into arbitrary indices which are unfairly composed and ignore the individual choices of each person.
 
 [Back to Table of Contents](#toc)
 
