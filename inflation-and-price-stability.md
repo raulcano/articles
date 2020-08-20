@@ -68,7 +68,7 @@ Pretending that inflating the money supply according to productivity is somehow 
 
 Wouldn't it send a clearer message to the market to directly change the price of the product that had its output affected? The argument from price stability seems to me a crazy way of seeing things and clearly the proposed solution misses the point it tries to defend (predictability).
 
-In summary, with a rate of monetary inflation pegged to productivity, we lose information about the evolution of the means of production of products and services. Without inflation however, production knowledge is better relayed since prices are attached to each element in the economy and affected by its relevant characteristics, instead of being aggregated into arbitrary indices which are unfairly composed and ignore the individual choices of each person.
+In summary, with a rate of monetary inflation pegged to productivity, we lose information about the evolution of the means of production of products and services. Without inflation however, production knowledge is better relayed to all participants in the economy. This is because prices are then attached to each element and affected by its relevant characteristics, instead of being aggregated into arbitrary indices which are unfairly composed and ignore the individual choices of each person.
 
 [Back to Table of Contents](#toc)
 
