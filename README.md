@@ -7,6 +7,7 @@ This page is the index to the articles I publish in GitHub.
 3. [Verification of PlanB's Stock-to-flow model for the price of bitcoin](#art3)
 4. [Printing money is a bad policy](#art4)
 5. [Price stability revisited](#art5)
+6. [Verifying PlanB's Stock-to-Flow model](#art6)
 
 # Articles
 ## [On the fairness of a non-inflationary currency](https://github.com/raulcano/articles/blob/master/fairness-of-deflationary-currency.md) <a name="art1"></a>
@@ -46,3 +47,9 @@ Additionally, I used a total of 1158 datapoints, in contrast with the 111 used b
 *...with a rate of monetary inflation pegged to productivity, we lose information about the evolution of the means of production of products and services. With no monetary inflation however, knowledge is better relayed since prices are attached to each element in the economy and affected by its relevant characteristics, instead of being aggregated into arbitrary indices which are unfairly composed and ignore the individual choices of each person.* [Read more](https://github.com/raulcano/articles/blob/master/inflation-and-price-stability.md)  
 [Back to Table of Contents](#toc)
 
+---
+
+## [Verifying PlanB's Stock-to-Flow model](https://github.com/raulcano/bitcoin-analysis/blob/master/btc-analysis.ipynb) <a name="art6"></a>
+
+*The purpose of this work is to replicate the results in the article "[Modeling Bitcoin's Value with Scarcity](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)" by PlanB* [Read more](https://github.com/raulcano/bitcoin-analysis/blob/master/btc-analysis.ipynb)  
+[Back to Table of Contents](#toc)
