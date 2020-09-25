@@ -4,10 +4,9 @@ This page is the index to the articles I publish in GitHub.
 # Table of contents <a name="toc"></a>
 1. [On the fairness of a non-inflationary currency](#art1)
 2. [Second defense of a non-inflationary currency](#art2)
-3. [Verification of PlanB's Stock-to-flow model for the price of bitcoin](#art3)
-4. [Printing money is a bad policy](#art4)
-5. [Price stability revisited](#art5)
-6. [Verifying PlanB's Stock-to-Flow model](#art6)
+3. [Printing money is a bad policy](#art3)
+4. [Price stability revisited](#art4)
+5. [Verifying PlanB's Stock-to-Flow model](#art5)
 
 # Articles
 ## [On the fairness of a non-inflationary currency](https://github.com/raulcano/articles/blob/master/fairness-of-deflationary-currency.md) <a name="art1"></a>
@@ -26,30 +25,21 @@ Since I wrote that, some friends raised a couple of arguments which I'd like to 
 
 ---
 
-## [Verification of PlanB's Stock-to-flow model for the price of bitcoin](https://github.com/raulcano/bitcoin-analysis/blob/master/btc-analysis.ipynb) <a name="art3"></a>
-
-*The purpose of this work is to replicate the results by PlanB in his article "[Modeling Bitcoin's Value with Scarcity](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)"[..] The dataset used in this exercise has been obtained as I explained in this other [Jupyter notebook](https://github.com/raulcano/bitcoin-analysis/blob/master/btc-dataset.ipynb). 
-I have purposedly used a different set than the one shared by PlanB in his GitHub page, in order to corroborate that there is no particular bias in the sources used by him.
-Additionally, I used a total of 1158 datapoints, in contrast with the 111 used by PlanB in the original article.* [Read more](https://github.com/raulcano/bitcoin-analysis/blob/master/btc-analysis.ipynb)  
-[Back to Table of Contents](#toc)
-
----
-
-## [Printing money is a bad policy](https://github.com/raulcano/articles/blob/master/printing-money-bad-policy.md) <a name="art4"></a>
+## [Printing money is a bad policy](https://github.com/raulcano/articles/blob/master/printing-money-bad-policy.md) <a name="art3"></a>
 
 *Natural catastrophes, ranging from climate-related ones to pandemics are part of the world we live in. If we want to be consistently moral and fair in our defense of how to improve the economy in such scenarios, the strategy we follow to protect us from the latest disaster must necessarily consider that there will be future ones. Not taking that into account ignores the future victims, which are a direct consequence of our current actions, of building a fragile society based on debt, spending and inflation; these future victims are as worthy of our protection as the current ones but, unluckily for them, they are harder to track and link to the original cause of their disgrace.* [Read more](https://github.com/raulcano/articles/blob/master/printing-money-bad-policy.md)  
 [Back to Table of Contents](#toc)
 
 ---
 
-## [Price stability revisited](https://github.com/raulcano/articles/blob/master/inflation-and-price-stability.md) <a name="art5"></a>
+## [Price stability revisited](https://github.com/raulcano/articles/blob/master/inflation-and-price-stability.md) <a name="art4"></a>
 
 *...with a rate of monetary inflation pegged to productivity, we lose information about the evolution of the means of production of products and services. With no monetary inflation however, knowledge is better relayed since prices are attached to each element in the economy and affected by its relevant characteristics, instead of being aggregated into arbitrary indices which are unfairly composed and ignore the individual choices of each person.* [Read more](https://github.com/raulcano/articles/blob/master/inflation-and-price-stability.md)  
 [Back to Table of Contents](#toc)
 
 ---
 
-## [Verifying PlanB's Stock-to-Flow model](https://github.com/raulcano/bitcoin-analysis/blob/master/btc-analysis.ipynb) <a name="art6"></a>
+## [Verifying PlanB's Stock-to-Flow model](https://github.com/raulcano/bitcoin-analysis/blob/master/btc-analysis.ipynb) <a name="art5"></a>
 
 *The purpose of this work is to replicate the results in the article "[Modeling Bitcoin's Value with Scarcity](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)" by PlanB* [Read more](https://github.com/raulcano/bitcoin-analysis/blob/master/btc-analysis.ipynb)  
 [Back to Table of Contents](#toc)
