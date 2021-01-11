@@ -43,3 +43,5 @@ Since I wrote that, some friends raised a couple of arguments which I'd like to 
 
 *The purpose of this work is to replicate the results in the article "[Modeling Bitcoin's Value with Scarcity](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)" by PlanB* [Read more](https://github.com/raulcano/bitcoin-analysis/blob/master/btc-analysis.ipynb)  
 [Back to Table of Contents](#toc)
+
+<a rel="me" href="https://bitcoinhackers.org/@raul">Mastodon</a>
